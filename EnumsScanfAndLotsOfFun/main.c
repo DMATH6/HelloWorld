@@ -1,17 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()  //Not done yet!!
+int main()
 {
-    char FirstName;
-    char SecondName;
-    char ThirdName;
-    char FourthName;
-    enum Color{Red,Blue,Yellow,Green};
-    enum Sex{Male,Female,Other};
-    enum Age{Over18,Over10};
-    printf("Please enter your first name");
-    scanf('Firstname'); //This will be done (hopefully)
-    printf("Hello world!\n");
+    enum WeekDays{Sunday, Monday=1, Tuesday, Wensday, Thursday, Friday=0, Saturday};
+    printf("\n Is it Monday? (1 for yes and 0 for no) \n\n %i\n", Monday); //Lets just grab one variable at a time caz screw if statements for now
+    printf("\n What about Friday?\n\n %i\n\n", Friday);
+
     return 0;
 }
