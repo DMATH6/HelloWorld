@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557539123 source:/home/dmath/Documents/HelloWorld.git/TimeIsTheEnemy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
