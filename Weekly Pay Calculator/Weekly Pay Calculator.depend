@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558145861 source:/home/dmath/Documents/HelloWorld.git/Weekly Pay Calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+
