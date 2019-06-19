@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1560908092 source:/home/dmath/Documents/HelloWorld.git/GuessingGame/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1560819570 source:/home/dmath/Documents/HelloWorld.git/GuessingGame/fgets.c
+
+1560819253 source:/home/dmath/Documents/HelloWorld.git/GuessingGame/src/fgets.cpp
+	"fgets.h"
+
+1560819253 /home/dmath/Documents/HelloWorld.git/GuessingGame/include/fgets.h
+
