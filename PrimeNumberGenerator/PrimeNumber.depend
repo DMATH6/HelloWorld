@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597156617 source:c:\users\dylan\onedrive\documents\course\primenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
