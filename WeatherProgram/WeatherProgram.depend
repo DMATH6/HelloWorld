@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597982079 source:c:\users\dylan\onedrive\documents\course\weatherprogram\main.c
+	<stdio.h>
+	<string.h>
+
